@@ -1,0 +1,2 @@
+# sentiment_score
+彙整BERT和FinGPT情緒分析的內容
